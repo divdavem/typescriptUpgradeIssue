@@ -1,8 +1,8 @@
 devDependencies:
-  '@rollup/plugin-typescript': 8.2.0_7a1810ee2bfbf0ba9dcee5f403db67bd
+  '@rollup/plugin-typescript': 8.2.0_611c8b2ed1e492df47cb58b5c35b4947
   rollup: 2.40.0
   tslib: 2.1.0
-  typescript: 4.1.5
+  typescript: 4.2.2
   winston: 3.3.3
 lockfileVersion: 5.2
 packages:
@@ -14,13 +14,13 @@ packages:
     dev: true
     resolution:
       integrity: sha512-+A1YivoVDNNVCdfozHSR8v/jyuuLTMXwjWuxPFlFlUapXoGc+Gj9mDlTDDfrwl7rXCl2tNZ0kE8sIBO6YOn96Q==
-  /@rollup/plugin-typescript/8.2.0_7a1810ee2bfbf0ba9dcee5f403db67bd:
+  /@rollup/plugin-typescript/8.2.0_611c8b2ed1e492df47cb58b5c35b4947:
     dependencies:
       '@rollup/pluginutils': 3.1.0_rollup@2.40.0
       resolve: 1.20.0
       rollup: 2.40.0
       tslib: 2.1.0
-      typescript: 4.1.5
+      typescript: 4.2.2
     dev: true
     engines:
       node: '>=8.0.0'
@@ -279,13 +279,13 @@ packages:
     dev: true
     resolution:
       integrity: sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
-  /typescript/4.1.5:
+  /typescript/4.2.2:
     dev: true
     engines:
       node: '>=4.2.0'
     hasBin: true
     resolution:
-      integrity: sha512-6OSu9PTIzmn9TCDiovULTnET6BgXtDYL4Gg4szY+cGsc3JP1dQL8qvE8kShTRx1NIw4Q9IBHlwODjkjWEtMUyA==
+      integrity: sha512-tbb+NVrLfnsJy3M59lsDgrzWIflR4d4TIUjz+heUnHZwdF7YsrMTKoRERiIvI2lvBG95dfpLxB21WZhys1bgaQ==
   /util-deprecate/1.0.2:
     dev: true
     resolution:
@@ -319,5 +319,5 @@ specifiers:
   '@rollup/plugin-typescript': 8.2.0
   rollup: 2.40.0
   tslib: 2.1.0
-  typescript: 4.1.5
+  typescript: 4.2.2
   winston: 3.3.3
